@@ -1,6 +1,6 @@
 {
-  "name": "cool-props",
-  "version": "0.1.0",
+  "name": "react-with-typescript-optional-props-with-default-values",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
