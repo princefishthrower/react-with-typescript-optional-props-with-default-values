@@ -1,5 +1,5 @@
 import React from 'react';
-import FancyTitle from './component/FancyTitle';
+import FancyTitle from './components/FancyTitle';
 
 function App() {
   return (
